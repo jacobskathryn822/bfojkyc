@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：入门实践：实现简单文件读写功能
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：http://wap.erkkwf.asia/blog/4180594.sHtMl
+
+原标题：golang 系统设计混沌测试故障注入简单示例
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：http://wap.erkkwf.asia/blog/6383585.sHtMl
+
+原标题：实战项目：容器健康探针配置完整实践示例
+简介：跨库查询性能优化处理，减少跨库关联查询，做数据冗余或者中间表，规避跨库查询性能低下。
+ | 原文链接：http://wap.erkkwf.asia/blog/0817748.sHtMl
+
+原标题：golang 系统信号信号量处理
+简介：golang base64 大文件流式编解码，大文件流式 base64 转换，不用一次性加载全部文件进入内存。
+ | 原文链接：http://wap.erkkwf.asia/blog/5269382.sHtMl
+
+原标题：golang 系统设计故障应急响应完整流程梳理
+简介：golang 信号量 semaphore 并发限制，基于 semaphore 实现并发数量控制，保护数据库、第三方接口不被打满。
+ | 原文链接：http://wap.erkkwf.asia/blog/6383527.sHtMl
+
+原标题：golang 系统设计降级策略开关配置方案
+简介：golang go math 大数高精度计算，math/big 处理超大整数、高精度浮点数，金额大数运算。
+ | 原文链接：http://wap.erkkwf.asia/blog/8525036.sHtMl
+
+原标题：golang 系统设计缓存预热脚本编写实操
+简介：golang sync.WaitGroup 协程等待控制，WaitGroup 控制一组协程等待全部执行完成，完成批量协程任务调度。
+ | 原文链接：http://wap.erkkwf.asia/blog/7592718.sHtMl
+
+原标题：方案对比：同步调用vs异步消息业务选型
+简介：golang go mod vendor 本地依赖导出，导出 vendor 目录，离线环境编译项目，无需访问外网拉依赖。
+ | 原文链接：http://wap.erkkwf.asia/blog/2647248.sHtMl
+
+原标题：设计思考：业务系统如何做故障隔离架构
+简介：golang loki 日志收集 go 服务集成，日志输出适配 loki，标签携带 traceId，日志集中检索排查问题。
+ | 原文链接：http://wap.erkkwf.asia/blog/3930453.sHtMl
+
+原标题：安全笔记：HTTPSTLS配置安全加固实践
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：http://wap.erkkwf.asia/blog/4152471.sHtMl
+
+原标题：golang 系统设计混沌测试故障注入简单示例
+简介：golang os 文件目录操作大全，文件创建删除重命名，目录遍历，文件信息读取，完成各类文件系统操作。
+ | 原文链接：http://wap.erkkwf.asia/blog/4158365.sHtMl
+
+原标题：Issue：操作系统最大打开文件数限制导致报错
+简介：golang strings.Builder 字符串高效拼接，strings.Builder 做字符串拼接，比 += 性能更高，减少内存拷贝。
+ | 原文链接：http://wap.erkkwf.asia/blog/4274703.sHtMl
+
+原标题：golang 系统设计短链接服务实现思路
+简介：Git LFS 大文件推送失败解决，配置 Git LFS，处理仓库大文件，解决大文件推送报错推送失败。
+ | 原文链接：http://wap.erkkwf.asia/blog/8481693.sHtMl
+
+原标题：多规则数据脱敏组件开发
+简介：vite 插件开发自定义构建逻辑，开发自定义 vite 插件，介入构建生命周期，实现项目个性化构建逻辑。
+ | 原文链接：http://wap.erkkwf.asia/blog/3040141.sHtMl
+
+原标题：golang http 代理客户端配置
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：http://wap.erkkwf.asia/blog/2930182.sHtMl
+
+原标题：开源实践：开源Issue沟通技巧如何有效提Bug
+简介：nodejs 单元测试 jest 实操教程，Jest 单元测试实操，编写测试用例，mock 依赖，验证业务逻辑正确性。
+ | 原文链接：http://wap.erkkwf.asia/blog/4363482.sHtMl
+
+原标题：Hands‑on：shell脚本批量自动化运维小工具
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：http://wap.erkkwf.asia/blog/0425138.sHtMl
+
+原标题：golang rate‑limiter 限流组件
+简介：全平台系统环境变量配置，汇总多操作系统环境变量配置方法，统一项目读取逻辑，适配不同运行平台。
+ | 原文链接：http://wap.erkkwf.asia/blog/0604627.sHtMl
+
+原标题：后端登录鉴权模块完整开发
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：http://wap.erkkwf.asia/blog/7492837.sHtMl
+
+原标题：golang 系统设计链路追踪核心概念 trace span 讲解
+简介：golang go 服务压测前后性能对比，压测记录 QPS 延迟，优化前后对比，验证优化效果。
+ | 原文链接：http://wap.erkkwf.asia/blog/3718940.sHtMl
+
+原标题：快速入门YAML配置文件语法与示例
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：http://wap.erkkwf.asia/blog/5300515.sHtMl
+
+原标题：golang 系统设计技术债务识别登记治理思路
+简介：golang grpc 客户端拦截器封装，grpc 客户端拦截器实现请求统一签名、重试、链路信息透传。
+ | 原文链接：http://wap.erkkwf.asia/blog/9425037.sHtMl
+
+原标题：Practice：实现跨机器文件同步脚本实践
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://wap.erkkwf.asia/blog/5268371.sHtMl
+
+原标题：golang 系统设计分布式任务调度
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://wap.erkkwf.asia/blog/3058963.sHtMl
+
+原标题：网关超时时间调优后端等待
+简介：golang 静态编译缩小镜像体积，Go 程序静态编译，不依赖系统库，产出单二进制文件，缩小镜像。
+ | 原文链接：http://wap.erkkwf.asia/blog/0715815.sHtMl
+
+原标题：golang jwt 鉴权中间件完整示例
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：http://wap.erkkwf.asia/blog/4259359.sHtMl
+
+原标题：golang redis bitmap 位图统计实现
+简介：特殊输入字符过滤解析防护，过滤用户输入特殊字符，防止解析报错，规避恶意字符带来业务异常。
+ | 原文链接：http://wap.erkkwf.asia/blog/9607959.sHtMl
+
+原标题：架构复盘：慢查询治理架构层面优化手段
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：http://wap.erkkwf.asia/blog/9718071.sHtMl
+
+原标题：性能复盘：内存泄漏定位，内存持续上涨优化
+简介：golang 内存持续上涨定位思路，区分内存泄漏、缓存占用、GC 参数不合理，分步定位内存持续走高。
+ | 原文链接：http://wap.erkkwf.asia/blog/2781360.sHtMl
+
+原标题：网络读取超时设置连接挂起防护
+简介：golang 故障演练服务模拟超时报错，程序模拟接口超时、报错，做混沌测试验证熔断降级有效性。
+ | 原文链接：http://wap.erkkwf.asia/blog/5260257.sHtMl
+
+原标题：性能笔记：操作系统文件句柄、虚拟内存调优
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://wap.erkkwf.asia/blog/9536137.sHtMl
+
+原标题：golang rsa 非对称加密签名验签
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：http://wap.erkkwf.asia/blog/6351604.sHtMl
+
+原标题：Architecture：API设计RESTful最佳实践与反模式
+简介：golang 分布式追踪全链路日志打印，日志打印 traceId，各个服务日志可串联，排查跨服务调用问题。
+ | 原文链接：http://wap.erkkwf.asia/blog/4183707.sHtMl
+
+原标题：线上异常：线程池队列拒绝策略配置错误丢任务
+简介：Git 仓库瘦身加快克隆下载速度，清理 Git 仓库历史大文件，缩减仓库体积，提升克隆拉取仓库速度。
+ | 原文链接：http://wap.erkkwf.asia/blog/1484925.sHtMl
+
+原标题：golang 消息死信处理业务逻辑
+简介：golang elasticsearch 客户端 golang 实操，es 客户端文档增删改查，条件搜索聚合统计对接搜索引擎。
+ | 原文链接：http://wap.erkkwf.asia/blog/7497948.sHtMl
+
+原标题：golang 系统设计故障止损降级回滚执行原则
+简介：golang go 服务蓝绿发布实践思路，蓝绿两套实例，流量一键切换，回滚快速降低发布风险。
+ | 原文链接：http://wap.erkkwf.asia/blog/3930393.sHtMl
+
+原标题：序列化版本不一致解析失败
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://wap.erkkwf.asia/blog/9724250.sHtMl
+
+原标题：golang base64 编码解码实操
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：http://wap.erkkwf.asia/blog/5150581.sHtMl
+
+原标题：排错：CI流水线构建失败，日志无明确报错
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://wap.erkkwf.asia/blog/5270582.sHtMl
+
+原标题：golang k8s 资源请求限制配置
+简介：vue3 组合式 API 业务开发实战，Vue3 组合式 API 业务实战示例，拆分业务逻辑组合复用，提升代码组织。
+ | 原文链接：http://wap.erkkwf.asia/blog/5392707.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：Troubleshoot：异步异常未捕获，进程悄无声息退出
+简介：golang k8s go 服务 yaml 资源编写，k8s 部署 go 应用 deployment service，健康检查资源限制配置。
+ | 原文链接：http://wap.erkkwf.asia/blog/0748061.sHtMl
+
+原标题：踩坑：环境变量未生效导致线上配置错乱
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://wap.erkkwf.asia/blog/8585627.sHtMl
+
+原标题：golang kafka 消费者组原理讲解
+简介：开源项目构建失败排查步骤，梳理构建报错排查流程，从依赖、网络、权限、脚本多角度定位项目构建失败原因。
+ | 原文链接：http://wap.erkkwf.asia/blog/9672406.sHtMl
+
+原标题：效率笔记：提升开发效率shell脚本小工具合集
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://wap.erkkwf.asia/blog/2930253.sHtMl
+
+原标题：性能复盘：磁盘Swap大量使用系统卡顿优化
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://wap.erkkwf.asia/blog/2937038.sHtMl
+
+原标题：短信服务封装失败自动重试
+简介：golang go mod graph 可视化依赖图，可视化 go 依赖关系，直观看到包之间依赖，定位冲突。
+ | 原文链接：http://wap.erkkwf.asia/blog/4150394.sHtMl
+
+原标题：架构复盘：容器资源隔离架构CPU内存限制设计
+简介：golang go 防止路径穿越攻击，文件操作校验路径，拒绝../ 路径穿越，禁止访问系统任意文件。
+ | 原文链接：http://wap.erkkwf.asia/blog/6379594.sHtMl
+
+原标题：golang 系统设计日志系统架构思路
+简介：golang 日志 zap 结构化日志实践，接入 Zap 结构化日志库，打印结构化日志，方便日志检索解析。
+ | 原文链接：http://wap.erkkwf.asia/blog/0739269.sHtMl
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：操作系统内核版本适配服务，针对服务运行要求，适配操作系统内核版本，规避内核兼容 bug。
+ | 原文链接：http://wap.erkkwf.asia/blog/7482526.sHtMl
+
+原标题：css 动画性能优化 GPU 加速
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：http://wap.erkkwf.asia/blog/1423649.sHtMl
+
+原标题：安全实践：容器最小化镜像减少攻击面
+简介：golang 接口返回统一封装工具，封装 Go 接口统一返回工具，标准化成功失败返回结构体。
+ | 原文链接：http://wap.erkkwf.asia/blog/7202461.sHtMl
+
+原标题：部署复盘：回滚策略，线上故障快速回退
+简介：golang errors.Is errors.As 错误判断，判断是否为指定错误类型，提取自定义错误信息，错误处理进阶。
+ | 原文链接：http://wap.erkkwf.asia/blog/2936259.sHtMl
+
+原标题：实战项目：编写Dockerfile多阶段构建减小镜像体积
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://wap.erkkwf.asia/blog/5378582.sHtMl
+
+原标题：优化实践：Redis管道、批量命令减少网络往返
+简介：golang 互斥锁读写锁并发安全，互斥锁读写锁实操，保护共享变量，解决多协程并发读写数据竞争。
+ | 原文链接：http://wap.erkkwf.asia/blog/3748484.sHtMl
+
+原标题：优化实践：Redis性能调优，避免大key热key
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：http://wap.erkkwf.asia/blog/1594738.sHtMl
+
+原标题：项目实践：灰度发布简易方案落地实践
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://wap.erkkwf.asia/blog/7709047.sHtMl
+
+原标题：golang http client 连接池调优
+简介：磁盘占满服务不可用清理方案，定位磁盘占用大文件，清理日志、缓存文件，恢复磁盘可用空间。
+ | 原文链接：http://wap.erkkwf.asia/blog/5933355.sHtMl
+
+原标题：golang 系统设计基准测试 benchmark 编写
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：http://wap.erkkwf.asia/blog/5595770.sHtMl
+
+原标题：前端错误监控上报系统搭建
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：http://wap.erkkwf.asia/blog/4272737.sHtMl
+
+原标题：Hands‑on：编写GitLabCI配置自动测试部署
+简介：配置外部化线上部署防错误，把配置从代码剥离，外部传入配置，修改配置不需要重新打包构建。
+ | 原文链接：http://wap.erkkwf.asia/blog/4150394.sHtMl
+
+原标题：架构复盘：业务系统中如何合理使用分库分表
+简介：golang channel 通道并发处理，讲解 Channel 用法，协程之间通过通道传递数据，做并发同步控制。
+ | 原文链接：http://wap.erkkwf.asia/blog/8614060.sHtMl
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：golang goroutine 池任务调度，实现 goroutine 池，复用协程，频繁任务场景减少协程创建销毁开销。
+ | 原文链接：http://wap.erkkwf.asia/blog/6379604.sHtMl
+
+原标题：golang redis zset 排行榜业务实现
+简介：golang tls 证书加载配置 https 服务，加载证书密钥，搭建 golang https 服务，配置 tls 版本安全策略。
+ | 原文链接：http://wap.erkkwf.asia/blog/9304036.sHtMl
+
+原标题：序列化版本不一致解析失败
+简介：文件编码统一随机乱码修复，统一项目全部文件读写编码，消除随机中文乱码，保证文本处理稳定。
+ | 原文链接：http://wap.erkkwf.asia/blog/8595848.sHtMl
+
+原标题：实践：大文件分片上传后端完整实现思路
+简介：golang 协程数量监控统计方案，统计运行中 goroutine 数量，监控协程泄露，协程数量异常及时告警。
+ | 原文链接：http://wap.erkkwf.asia/blog/5264626.sHtMl
+
+原标题：ORM 隐式慢查询问题规避
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://wap.erkkwf.asia/blog/7590793.sHtMl
+
+原标题：golang 系统设计容器 OOM 故障完整排查
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：http://wap.erkkwf.asia/blog/7494836.sHtMl
+
+原标题：nodejs jwt 登录鉴权完整示例
+简介：golang rabbitmq go 客户端生产消费，streadway/amqp 实现 rabbitmq 生产者消费者，队列交换机绑定。
+ | 原文链接：http://wap.erkkwf.asia/blog/5269583.sHtMl
+
+原标题：优化实践：接口批量合并减少网络请求次数
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://wap.erkkwf.asia/blog/1816916.sHtMl
+
+原标题：golang 简易埋点日志上报实现
+简介：golang nilnil interface 陷阱复现，interface 包含类型不为 nil 值为 nil，判 ==nil 返回 false 经典坑。
+ | 原文链接：http://wap.erkkwf.asia/blog/0728062.sHtMl
+
+原标题：新手指南：本地多版本环境共存配置
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：http://wap.erkkwf.asia/blog/2938041.sHtMl
+
+原标题：效率笔记：gitlog高效查询历史提交技巧
+简介：golang cgo 内存管理 C 与 Go 内存，区分 Go 内存 C 堆内存，防止 cgo 内存泄漏，正确释放 C 内存。
+ | 原文链接：http://wap.erkkwf.asia/blog/4150382.sHtMl
+
+原标题：golang 互斥锁读写锁并发安全
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://wap.erkkwf.asia/blog/3049283.sHtMl
+
+原标题：golang mysql 防止 sql 注入实践
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://wap.erkkwf.asia/blog/7405848.sHtMl
+
+原标题：golang ip 限流黑名单实现方案
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://wap.erkkwf.asia/blog/4162405.sHtMl
+
+原标题：AI实践：大模型生成代码后审查与重构实践
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://wap.erkkwf.asia/blog/3161416.sHtMl
+
+原标题：快速入门GraphQL基础查询语法示例
+简介：OpenAPI 自动接口文档生成，集成 OpenAPI 工具，自动扫描代码生成接口文档，减少文档维护成本。
+ | 原文链接：http://wap.erkkwf.asia/blog/0729048.sHtMl
+
+原标题：实战项目：容器资源限制配置压力测试实践
+简介：内存广播本地进程消息通知，实现进程内内存消息广播，进程内部模块之间事件通知解耦。
+ | 原文链接：http://wap.erkkwf.asia/blog/2936353.sHtMl
+
+原标题：Hands‑on：简易配置中心本地原型实现
+简介：golang io.Copy 流式拷贝数据，io.Copy 拷贝 reader 到 writer，不用加载全部数据到内存。
+ | 原文链接：http://wap.erkkwf.asia/blog/4050470.sHtMl
+
+原标题：布隆过滤器误判问题修正
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://wap.erkkwf.asia/blog/6380818.sHtMl
+
+三、实战开发｜Practice
+原标题：Nginx 请求头大小上限调整
+简介：golang gorm 事务手动回滚提交，手动控制事务流程，业务异常主动回滚，保障数据操作原子性。
+ | 原文链接：http://wap.erkkwf.asia/blog/3157061.sHtMl
+
+原标题：AI‑Dev：AI辅助编码高效使用提示词技巧
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：http://wap.erkkwf.asia/blog/3151415.sHtMl
+
+原标题：Hands‑on：简易导出PDF后端生成demo实践
+简介：golang go 第三方库选型评估要点，评估库活跃度维护情况、性能、依赖数量，选择合适开源库。
+ | 原文链接：http://wap.erkkwf.asia/blog/0724048.sHtMl
+
+原标题：golang excel 简单读写操作示例
+简介：golang tidb 数据库 go 项目适配，go 程序适配 tidb，兼容 mysql 协议，分布式数据库业务开发。
+ | 原文链接：http://wap.erkkwf.asia/blog/7613037.sHtMl
+
+原标题：方案对比：几种任务队列架构选型优缺点
+简介：golang 内存 pprof 定位内存泄漏，pprof 分析内存快照，定位内存泄露对象，解决 Go 程序内存持续上涨。
+ | 原文链接：http://wap.erkkwf.asia/blog/1424259.sHtMl
+
+原标题：死信队列处理消息阻塞业务
+简介：golang 接口返回统一封装工具，封装 Go 接口统一返回工具，标准化成功失败返回结构体。
+ | 原文链接：http://wap.erkkwf.asia/blog/7590406.sHtMl
+
+原标题：golang 优雅处理系统信号 SIGINT
+简介：golang k8s 客户端 client‑go 简单示例，client‑go 操作 k8s 资源，增删改查 pod deployment 等资源对象。
+ | 原文链接：http://wap.erkkwf.asia/blog/2045242.sHtMl
+
+原标题：golang 系统设计业务指标系统指标定义思路
+简介：golang go decimal 定点小数金额计算，decimal 库处理金额，规避 float64 精度丢失，财务计算。
+ | 原文链接：http://wap.erkkwf.asia/blog/3050372.sHtMl
+
+原标题：布隆过滤器数据高效去重实现
+简介：golang 钉钉企业微信告警消息推送，go 调用企业微信钉钉接口，推送告警通知、业务消息。
+ | 原文链接：http://wap.erkkwf.asia/blog/7403515.sHtMl
+
+原标题：Architecture：安全防护架构XSSCSRFSQL注入防御
+简介：golang go http 服务器优雅关闭完整代码，http.Server Shutdown，等待现有请求处理完成关闭服务。
+ | 原文链接：http://wap.erkkwf.asia/blog/5262616.sHtMl
+
+原标题：开发记录：容器日志标准输出采集实践方案
+简介：golang 读写分离 gorm 实现主从切换，gorm 配置主库写入从库查询，读写分离分担数据库查询压力。
+ | 原文链接：http://wap.erkkwf.asia/blog/5261474.sHtMl
+
+原标题：日志敏感信息脱敏泄露防护
+简介：golang ctx 传递规则不要存结构体，context 作为函数参数传递，禁止放入结构体字段存储。
+ | 原文链接：http://wap.erkkwf.asia/blog/2938170.sHtMl
+
+原标题：前端打包产物体积压缩优化
+简介：golang 配置文件多环境加载，Go 多环境配置加载实现，读取配置文件环境变量，适配多套运行环境。
+ | 原文链接：http://wap.erkkwf.asia/blog/9635038.sHtMl
+
+原标题：业务接口幂等完整落地案例
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：http://wap.erkkwf.asia/blog/7583515.sHtMl
+
+原标题：golang 系统设计单元测试编写原则最佳实践
+简介：golang go math 大数高精度计算，math/big 处理超大整数、高精度浮点数，金额大数运算。
+ | 原文链接：http://wap.erkkwf.asia/blog/8723815.sHtMl
+
+原标题：golang kafka 同步异步消费对比
+简介：Git 误提交撤销回退实操教程，演示多种撤销提交方式，区分已经推送远程和本地未提交场景，处理误提交代码。
+ | 原文链接：http://wap.erkkwf.asia/blog/6401627.sHtMl
+
+原标题：OAuth2 第三方登录服务搭建
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：http://wap.erkkwf.asia/blog/4161515.sHtMl
+
+原标题：golang 互斥锁读写锁并发安全
+简介：golang time duration 解析时间字符串，time.ParseDuration 解析 1h30m 时间间隔字符串。
+ | 原文链接：http://wap.erkkwf.asia/blog/0746261.sHtMl
+
+原标题：架构复盘：业务系统中如何合理使用分库分表
+简介：接口签名验签完整安全方案，一套完整接口签名方案，包含签名生成、请求携带、服务端验签校验。
+ | 原文链接：http://wap.erkkwf.asia/blog/3046259.sHtMl
+
+原标题：开发复盘：分库分表本地模拟与数据路由实践
+简介：golang go 爬虫请求速率控制，爬虫限频、代理轮换，设置 UA，防止爬虫被目标站点封禁 IP。
+ | 原文链接：http://wap.erkkwf.asia/blog/5261514.sHtMl
+
+原标题：golang 日志与链路 ID 关联打印
+简介：配置外部化线上部署防错误，把配置从代码剥离，外部传入配置，修改配置不需要重新打包构建。
+ | 原文链接：http://wap.erkkwf.asia/blog/3746252.sHtMl
+
+原标题：golang redis 客户端业务使用
+简介：golang go 泛型使用避坑注意点，泛型与 interface 区别，泛型性能，什么时候适合使用泛型。
+ | 原文链接：http://wap.erkkwf.asia/blog/6372593.sHtMl
+
+原标题：Dockerfile 编写容器打包实战
+简介：Nginx 反向代理路由配置实战，配置 Nginx 反向代理，实现请求转发、路由分发，掌握 Nginx 基础配置能力。
+ | 原文链接：http://wap.erkkwf.asia/blog/5168471.sHtMl
+
+原标题：消息队列生产消费模型入门
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：http://wap.erkkwf.asia/blog/8424030.sHtMl
+
+原标题：golang 系统设计 grpc proto 接口设计原则
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：http://wap.erkkwf.asia/blog/3151475.sHtMl
+
+原标题：css 变量主题切换方案实现
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：http://wap.erkkwf.asia/blog/2048481.sHtMl
+
+原标题：开发记录：搭建CI/CD流水线自动构建部署项目
+简介：golang 环境变量读取与类型转换，读取系统环境变量，做类型转换默认值处理，适配多环境部署。
+ | 原文链接：http://wap.erkkwf.asia/blog/2946252.sHtMl
+
+原标题：golang 系统设计数据脱敏架构实现
+简介：nodejs 中间件模式原理剖析，拆解 Node 中间件设计模式，理解请求逐层处理流转的底层原理。
+ | 原文链接：http://wap.erkkwf.asia/blog/9605149.sHtMl
+
+原标题：Hands‑on：简易速率限制中间件完整实现
+简介：布隆过滤器误判问题修正，调整布隆过滤器参数，降低误判概率，保证业务去重逻辑准确。
+ | 原文链接：http://wap.erkkwf.asia/blog/5261404.sHtMl
+
+原标题：golang 系统设计 rest 状态码合理使用指南
+简介：golang kafka 消费者位移管理，理解 kafka offset，手动提交位移，保证消息消费至少一次语义。
+ | 原文链接：http://wap.erkkwf.asia/blog/9716955.sHtMl
+
+原标题：项目实践：MySQL读写分离本地模拟实践
+简介：golang strconv 字符串类型转换，字符串转数字布尔，处理转换失败 error，避免 panic。
+ | 原文链接：http://wap.erkkwf.asia/blog/7148037.sHtMl
+
+原标题：golang grafana 面板变量模板制作
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://wap.erkkwf.asia/blog/3040399.sHtMl
+
+原标题：Hands‑on：编写自定义Git钩子实现代码提交校验
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：http://wap.erkkwf.asia/blog/9223038.sHtMl
+
+原标题：golang docker 部署 es 本地开发
+简介：依赖安装失败全方位排错，从网络、镜像源、权限、版本多角度，定位依赖安装失败，给出对应修复手段。
+ | 原文链接：http://wap.erkkwf.asia/blog/0724141.sHtMl
+
+原标题：调优方案：MySQL缓冲池参数性能调优实践
+简介：golang go mod graph 可视化依赖图，可视化 go 依赖关系，直观看到包之间依赖，定位冲突。
+ | 原文链接：http://wap.erkkwf.asia/blog/4616060.sHtMl
+
+原标题：部署实践：容器时区统一配置解决方案
+简介：golang 分布式锁 redis 实现，基于 Redis 实现 Go 分布式锁，解决多实例并发竞争资源问题。
+ | 原文链接：http://wap.erkkwf.asia/blog/6302914.sHtMl
+
+原标题：实战：基于DockerCompose搭建本地开发栈
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://wap.erkkwf.asia/blog/5162586.sHtMl
+
+原标题：golang docker 部署 es 本地开发
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://wap.erkkwf.asia/blog/5262571.sHtMl
+
+原标题：golang 系统设计 protobuf oneof 类型业务场景
+简介：特殊输入字符过滤解析防护，过滤用户输入特殊字符，防止解析报错，规避恶意字符带来业务异常。
+ | 原文链接：http://wap.erkkwf.asia/blog/6372818.sHtMl
+
+原标题：golang 内存缓存简单实现方案
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://wap.erkkwf.asia/blog/8602927.sHtMl
+
+四、架构设计｜Architecture
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：http://wap.erkkwf.asia/blog/7440304.sHtMl
+
+原标题：HelloMarkdown：GitHubMarkdown完整语法速查
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：http://wap.erkkwf.asia/blog/3050394.sHtMl
+
+原标题：主干开发团队代码合并策略
+简介：Nginx 丢失请求头配置修正，修复 Nginx 代理转发丢失请求头配置，保证上游服务拿到完整请求头信息。
+ | 原文链接：http://wap.erkkwf.asia/blog/5252511.sHtMl
+
+原标题：安全实践：接口错误信息不要暴露内部细节
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：http://wap.erkkwf.asia/blog/2938461.sHtMl
+
+原标题：golang 系统设计死信队列 dlq 业务落地完整流程
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：http://wap.erkkwf.asia/blog/0261383.sHtMl
+
+原标题：安全实践：输入输出双向过滤安全最佳实践
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：http://wap.erkkwf.asia/blog/7494920.sHtMl
+
+原标题：开发复盘：大列表内存分批读取避免OOM实践
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://wap.erkkwf.asia/blog/9605849.sHtMl
+
+原标题：踩坑记录：文件描述符不足，上传功能随机失败
+简介：Mock 接口服务快速搭建实操，搭建模拟后端接口，自定义返回数据、延迟响应，前端开发阶段无需依赖真实后端服务。
+ | 原文链接：http://wap.erkkwf.asia/blog/7493647.sHtMl
+
+原标题：DevOps：容器网络模式选型与坑点总结
+简介：golang docker 镜像构建最佳实践，Go 项目 Docker 镜像构建最佳实践，减小镜像体积，安全构建。
+ | 原文链接：http://wap.erkkwf.asia/blog/2935250.sHtMl
+
+原标题：优化实践：批量操作性能优化，减少数据库IO
+简介：文件描述符优化进程卡死修复，及时关闭文件句柄，控制打开文件数量，解决文件句柄耗尽进程卡死。
+ | 原文链接：http://wap.erkkwf.asia/blog/1583736.sHtMl
+
+原标题：golang redis pipeline 原子性说明
+简介：golang 配置文件多格式兼容加载，同时支持 yaml toml json 多种格式配置文件，灵活适配不同部署环境。
+ | 原文链接：http://wap.erkkwf.asia/blog/9483926.sHtMl
+
+原标题：golang 系统设计内部服务契约测试简单思路
+简介：golang go decimal 定点小数金额计算，decimal 库处理金额，规避 float64 精度丢失，财务计算。
+ | 原文链接：http://wap.erkkwf.asia/blog/9602924.sHtMl
+
+原标题：Hands‑on：编写shell健康检查自动重启脚本
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://wap.erkkwf.asia/blog/7493918.sHtMl
+
+原标题：golang 系统设计 csrf 接口防护实现
+简介：CI 流水线超时时间延长配置，调大 CI 任务超时阈值，解决构建任务耗时较长被流水线强制终止。
+ | 原文链接：http://wap.erkkwf.asia/blog/4150414.sHtMl
+
+原标题：Practice：实现多数据源动态切换组件实践
+简介：定时任务重复执行分布式锁，使用分布式锁控制定时任务，保证集群环境定时任务只会执行一次。
+ | 原文链接：http://wap.erkkwf.asia/blog/5157691.sHtMl
+
+原标题：坑点：npm/pip全局版本与项目本地版本冲突
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://wap.erkkwf.asia/blog/6302404.sHtMl
+
+原标题：部署复盘：蓝绿发布实现零停机业务更新
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://wap.erkkwf.asia/blog/3057595.sHtMl
+
+原标题：golang 系统设计时间字段选型 datetime timestamp
+简介：golang ssh 客户端远程命令执行，golang ssh 连接远程服务器，执行 shell 命令，获取命令输出结果。
+ | 原文链接：http://wap.erkkwf.asia/blog/5858570.sHtMl
+
+?
